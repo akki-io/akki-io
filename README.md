@@ -1,6 +1,5 @@
 ### Hi there! Hola! 👋
 
-#### Akshansh Khare aka Akki.
 #### Backend Developer and DevOps Engineer.
 
 I am a Laravel Developer who specializes in Backend Service Development and API development. I design and develop websites and modern backend applications. I have a passion for web standards and solving interesting problems.
