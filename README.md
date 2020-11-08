@@ -2,7 +2,7 @@
 
 #### Backend Developer and DevOps Engineer.
 
-![In](https://raw.githubusercontent.com/akki-io/akki-io/main/in.png) -> ![It](https://raw.githubusercontent.com/akki-io/akki-io/main/it.png) -> ![US](https://raw.githubusercontent.com/akki-io/akki-io/main/us.png) -> ![Dr](https://raw.githubusercontent.com/akki-io/akki-io/main/dr.png) -> ![CA](https://raw.githubusercontent.com/akki-io/akki-io/main/ca.png)
+![In](https://raw.githubusercontent.com/akki-io/akki-io/main/in.png =32) ![It](https://raw.githubusercontent.com/akki-io/akki-io/main/it.png) ![US](https://raw.githubusercontent.com/akki-io/akki-io/main/us.png) ![Dr](https://raw.githubusercontent.com/akki-io/akki-io/main/dr.png) ![CA](https://raw.githubusercontent.com/akki-io/akki-io/main/ca.png)
 
 
 I am a Laravel Developer who specializes in Backend Service Development and API development. I design and develop websites and modern backend applications. I have a passion for web standards and solving interesting problems. I also do DevOps work here and there.
