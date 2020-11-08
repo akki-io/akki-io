@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Akki short for Akshansh Khare. I am a Backend Developer and DevOps Engineer.
+My name is Akshansh Khare aka Akki. I am a Backend Developer and DevOps Engineer.
 
 I am a Laravel Developer who specializes in Backend Service Development and API development. I design and develop websites and modern backend applications. I have a passion for web standards and solving interesting problems.
 
